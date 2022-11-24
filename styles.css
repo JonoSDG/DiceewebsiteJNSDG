@@ -1,0 +1,54 @@
+/*DE GUZMAN JOSE NOEL S*/
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #090f06;
+}
+hr {
+  border: 1px solid green;
+  width: 30rem;
+}
+h1 {
+  margin: 20px;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: 	#6e8641;
+}
+h5 {
+  font-family: 'Saira', sans-serif;
+  text-shadow: 5px 0 #232931;
+  color: 	#6e8641;
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Saira', sans-serif;
+  color: #576b33;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #cdd0c0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.donate{
+  text-align: center;
+}
